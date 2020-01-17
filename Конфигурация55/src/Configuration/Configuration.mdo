@@ -34,4 +34,6 @@
   <catalogs>Catalog.Справочник1</catalogs>
   <catalogs>Catalog.Справочник2</catalogs>
   <catalogs>Catalog.Справочник3</catalogs>
+  <dataProcessors>DataProcessor.Обработка1</dataProcessors>
+  <dataProcessors>DataProcessor.Обработка2</dataProcessors>
 </mdclass:Configuration>
