@@ -50,6 +50,15 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
+  <forms uuid="b4bd7cce-e55c-4407-b9e1-0309c669e58b">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
   <templates uuid="7f2d892d-fafc-4d17-940b-3f215972a6f3">
     <name>Макет</name>
     <synonym>
