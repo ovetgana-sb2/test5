@@ -31,6 +31,7 @@
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
   <defaultObjectForm>Catalog.Справочник2.Form.ФормаЭлемента</defaultObjectForm>
+  <defaultChoiceForm>Catalog.Справочник2.Form.ФормаВыбора</defaultChoiceForm>
   <forms uuid="6d8fd775-e81d-4ff2-bf38-398f80d0c175">
     <name>ФормаЭлемента</name>
     <synonym>
@@ -40,4 +41,20 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
+  <forms uuid="3c4c5f79-c9cb-4470-91c7-115cb8e77d03">
+    <name>ФормаВыбора</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма выбора</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="7f2d892d-fafc-4d17-940b-3f215972a6f3">
+    <name>Макет</name>
+    <synonym>
+      <key>ru</key>
+      <value>Макет</value>
+    </synonym>
+  </templates>
 </mdclass:Catalog>
