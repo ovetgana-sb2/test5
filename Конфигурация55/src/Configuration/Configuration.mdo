@@ -31,4 +31,6 @@
   </languages>
   <constants>Constant.Константа1</constants>
   <catalogs>Catalog.Справочник1</catalogs>
+  <catalogs>Catalog.Справочник2</catalogs>
+  <catalogs>Catalog.Справочник3</catalogs>
 </mdclass:Configuration>
