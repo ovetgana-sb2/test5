@@ -35,6 +35,7 @@
   <catalogs>Catalog.Справочник2</catalogs>
   <catalogs>Catalog.Справочник3</catalogs>
   <catalogs>Catalog.Справочник4</catalogs>
+  <catalogs>Catalog.Справочник5</catalogs>
   <enums>Enum.Перечисление</enums>
   <enums>Enum.Перечисление2</enums>
   <dataProcessors>DataProcessor.Обработка1</dataProcessors>
